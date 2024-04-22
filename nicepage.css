@@ -43004,21 +43004,21 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-image-1 {
   width: 45px;
   height: 45px;
-  filter: brightness(0);
+  filter: brightness(0.5);
   margin: -35px 76px 0 auto;
 }
 
 .u-footer .u-image-2 {
   width: 45px;
   height: 45px;
-  filter: brightness(0);
+  filter: brightness(0.5);
   margin: -45px 15px 0 auto;
 }
 
 .u-footer .u-image-3 {
   width: 45px;
   height: 45px;
-  filter: brightness(0);
+  filter: brightness(0.5);
   margin: -45px 137px 38px auto;
 }
 @media (max-width: 1199px) {
