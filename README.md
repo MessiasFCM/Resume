@@ -13,6 +13,7 @@ Para visualizar este portfólio localmente, clone o repositório e abra o arquiv
 
 ```bash
 git clone https://github.com/MessiasFCM/Resume.git
+```
 
 Depois disso, basta navegar até a pasta do projeto e abrir o arquivo index.html com o seu navegador de preferência.
 
