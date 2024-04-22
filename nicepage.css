@@ -42998,28 +42998,41 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  margin: 50px auto 0;
+}
+
+.u-footer .u-image-1 {
+  width: 45px;
+  height: 45px;
+  filter: brightness(0);
+  margin: -35px 76px 0 auto;
+}
+
+.u-footer .u-image-2 {
+  width: 45px;
+  height: 45px;
+  filter: brightness(0);
+  margin: -45px 15px 0 auto;
+}
+
+.u-footer .u-image-3 {
+  width: 45px;
+  height: 45px;
+  filter: brightness(0);
+  margin: -45px 137px 38px auto;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
+  .u-footer .u-image-1 {
+    margin-top: -35px;
   }
 }
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-}
+
 @media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
+  .u-footer .u-image-1 {
+    margin-top: 20px;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
-  }
-
   .u-footer .u-text-1 {
     width: 340px;
   }
