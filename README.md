@@ -7,22 +7,19 @@ Bem-vindo ao repositório do meu site de portfólio! Este código é o coração
 - CSS
 - JavaScript
 
-## Como usar :arrow_forward:
+## Como Usar :arrow_forward:
 
-Para visualizar este portfólio localmente, clone o repositório e abra o arquivo `index.html` em seu navegador.
+Para visualizar este portfólio, acesse [https://resume-sandy-two.vercel.app/](https://resume-sandy-two.vercel.app/).
 
-```bash
-git clone https://github.com/MessiasFCM/Resume.git
-```
+Para rodar localmente, clone o repositório e abra o arquivo `index.html` no seu navegador.
 
-Depois disso, basta navegar até a pasta do projeto e abrir o arquivo index.html com o seu navegador de preferência.
+## Contribuições :handshake:
 
-Contribuições :handshake:
-Sinta-se à vontade para forkar, enviar pull requests ou sugerir melhorias. Toda ajuda é bem-vinda!
+Sinta-se à vontade para fazer fork, enviar pull requests ou sugerir melhorias. Toda ajuda é bem-vinda!
 
-Contato :envelope_with_arrow:
-messiasferes127@gmail.com
+## Contato :envelope_with_arrow:
 
-Seu LinkedIn
+- Email: [messiasferes127@gmail.com](mailto:messiasferes127@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/messiasfcm/](https://www.linkedin.com/in/messiasfcm/)
 
-Deixe uma ⭐ se você gostou!
+Se gostou do meu trabalho, deixe uma ⭐ no repositório!
