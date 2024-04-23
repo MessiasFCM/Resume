@@ -42984,6 +42984,10 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -44px;
   }
+
+  .u-header .u-nav-1 {
+    font-size: 0.75rem;
+  }
 }
 
 
@@ -42993,48 +42997,126 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
-}
-
-.u-footer .u-text-1 {
-  width: 417px;
-  margin: 50px auto 0;
+  min-height: 185px;
 }
 
 .u-footer .u-image-1 {
   width: 45px;
   height: 45px;
   filter: brightness(0.5);
-  margin: -35px 76px 0 auto;
+  margin: 34px 609px 0 486px;
 }
 
 .u-footer .u-image-2 {
   width: 45px;
   height: 45px;
   filter: brightness(0.5);
-  margin: -45px 15px 0 auto;
+  margin: -45px auto 0;
 }
 
 .u-footer .u-image-3 {
   width: 45px;
   height: 45px;
   filter: brightness(0.5);
-  margin: -45px 137px 38px auto;
+  margin: -45px auto 0 609px;
+}
+
+.u-footer .u-text-1 {
+  font-size: 1rem;
+  margin: 19px 0 0;
+}
+
+.u-footer .u-text-2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin: 4px 0 29px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-image-1 {
-    margin-top: -35px;
+    margin-top: 163px;
+    margin-right: 509px;
+    margin-left: 405px;
+  }
+
+  .u-footer .u-image-2 {
+    margin-left: 367px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-left: 528px;
+  }
+
+  .u-footer .u-text-1 {
+    width: 480px;
+    margin-top: -62px;
+  }
+
+  .u-footer .u-text-2 {
+    width: 417px;
+    margin-top: 64px;
   }
 }
+@media (max-width: 991px) {
+  .u-footer .u-image-1 {
+    margin-top: 163px;
+    margin-right: 399px;
+    margin-left: 350px;
+  }
 
+  .u-footer .u-image-2 {
+    margin-left: 202px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-left: 473px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: -62px;
+  }
+}
 @media (max-width: 767px) {
   .u-footer .u-image-1 {
-    margin-top: 20px;
+    margin-top: 67px;
+    margin-right: 309px;
+    margin-left: 350px;
+  }
+
+  .u-footer .u-image-2 {
+    margin-left: 202px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-left: 473px;
+  }
+
+  .u-footer .u-text-1 {
+    margin-top: -127px;
+  }
+
+  .u-footer .u-text-2 {
+    margin-top: 14px;
   }
 }
 @media (max-width: 575px) {
+  .u-footer .u-image-1 {
+    margin-top: -138px;
+    margin-right: 209px;
+    margin-left: 86px;
+  }
+
+  .u-footer .u-image-3 {
+    margin-left: 295px;
+  }
+
   .u-footer .u-text-1 {
     width: 340px;
+    margin-top: -127px;
+  }
+
+  .u-footer .u-text-2 {
+    width: 340px;
+    margin-top: -12px;
   }
 }
 
